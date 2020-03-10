@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://afaisw.github.io/_afaisw/</loc>
-     <lastmod>2020-03-03</lastmod>
+     <lastmod>2020-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://afaisw.github.io/_afaisw/Installation/Install MKDOCS & Deploy to GITHUB/</loc>
-     <lastmod>2020-03-03</lastmod>
+     <lastmod>2020-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://afaisw.github.io/_afaisw/Installation/Signup GITHUB/</loc>
-     <lastmod>2020-03-03</lastmod>
+     <lastmod>2020-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://afaisw.github.io/_afaisw/Komnum/error0001/</loc>
-     <lastmod>2020-03-03</lastmod>
+     <loc>https://afaisw.github.io/_afaisw/Komnum/tugas1/</loc>
+     <lastmod>2020-03-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://afaisw.github.io/_afaisw/Komnum/tugas2/</loc>
+     <lastmod>2020-03-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
